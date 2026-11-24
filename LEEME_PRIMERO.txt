@@ -1,0 +1,22 @@
+KAT'S CLOSET — PROTOTIPO INSTALABLE
+
+Este paquete contiene la versión web móvil de Kat's Closet. Está pensado para Android y Chrome.
+
+PUBLICAR GRATIS DESDE EL CELULAR (GitHub Pages):
+1. En Chrome entra a https://github.com y crea/inicia sesión en tu cuenta.
+2. Pulsa + y crea un repositorio nuevo llamado kats-closet. Para GitHub Pages gratuito, déjalo público.
+3. Entra al repositorio > Add file > Upload files.
+4. Sube TODOS los archivos de esta carpeta (index.html, manifest.webmanifest, sw.js, icon.svg y este archivo). No subas el ZIP como único archivo: primero debes extraerlo en el teléfono.
+5. Confirma con Commit changes.
+6. En el repositorio abre Settings > Pages. En Build and deployment elige Deploy from a branch, branch main y folder /(root); guarda.
+7. Espera a que GitHub muestre la dirección publicada en esa misma sección. Ábrela con Chrome Android.
+8. En Chrome pulsa ⋮ > Añadir a pantalla principal (o Instalar app si aparece).
+
+IMPORTANTE:
+- No puedo iniciar sesión ni publicar en tu cuenta por ti; los pasos de cuenta y publicación requieren que tú los confirmes.
+- Este paquete no cobra ni usa APIs pagadas. GitHub Pages ofrece alojamiento estático gratuito sujeto a sus condiciones vigentes.
+- Tus prendas y fotos se guardan localmente en el navegador de ese dispositivo. Exporta respaldos desde Perfil antes de borrar datos o cambiar de teléfono.
+- No hay cuenta ni sincronización en la nube.
+- La eliminación automática de fondo no está integrada todavía.
+- El creador combina fotos de prendas; no es una prueba virtual sobre un cuerpo.
+- Es un MVP: conviene probarlo con algunas prendas antes de cargar todo tu armario.

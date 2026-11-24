@@ -1,0 +1,10 @@
+{
+  "name": "Kat's Closet",
+  "short_name": "Kat's Closet",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5eadb",
+  "theme_color": "#681329",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
